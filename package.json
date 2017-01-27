@@ -1,0 +1,13 @@
+{
+    "name": "go-gzip-test",
+    "version": "0.0.1",
+    "description": "Benchmarks for Go gzip",
+    "author": "Jonathan Hall <flimzy@flimzy.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flimzy/jstest"
+    },
+    "devDependencies": {
+        "pako": ">=1.0.4"
+    }
+}
